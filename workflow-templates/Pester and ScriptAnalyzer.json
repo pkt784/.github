@@ -1,0 +1,13 @@
+{
+    "name": "Pester and ScriptAnalyzer Workflow",
+    "description": "PSH basic workflow template.",
+    "iconName": "pestser",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
